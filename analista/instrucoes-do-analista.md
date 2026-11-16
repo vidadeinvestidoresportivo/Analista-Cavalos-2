@@ -133,6 +133,10 @@ principalmente em corridas de maiden.
   tabela, **não dê a ele menos probabilidade do que o mercado** (1 / odd atual).
   Forma recente ruim **não** é motivo suficiente para descontar (ex.: No Name
   Dude, 0 vitórias em 9 no ano, odd caindo 29 %, venceu).
+- **Em teste (bom alvo de lay):** cavalo vindo **só de hipódromos fracos**
+  (Fairmount, Belterra, Mahoning) que **estreia em Mountaineer** e está com odd
+  baixa. Em 9 e 10/11: Nightwind, Lemon Drop Shot, Blaze Beauty e Wild Tapit
+  perderam (0 em 4).
 - **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
   Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
