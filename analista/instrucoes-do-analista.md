@@ -136,7 +136,9 @@ principalmente em corridas de maiden.
 - **Em teste (bom alvo de lay):** cavalo vindo **só de hipódromos fracos**
   (Fairmount, Belterra, Mahoning) que **estreia em Mountaineer** e está com odd
   baixa. Em 9 e 10/11: Nightwind, Lemon Drop Shot, Blaze Beauty e Wild Tapit
-  perderam (0 em 4).
+  perderam (0 em 4). **A regra dos flucs tem prioridade:** se esse cavalo
+  estiver com odd caindo ≥ 5 %, não faça lay (ex.: Dominant Caitlin, odd
+  caindo 8 %, venceu).
 - **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
   Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
