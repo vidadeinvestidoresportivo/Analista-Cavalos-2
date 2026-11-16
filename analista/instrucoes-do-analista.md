@@ -143,6 +143,10 @@ principalmente em corridas de maiden.
   1,80** que **nunca venceu**. Prima Donna (1,25), You Signed It (1,80) e Super
   Mountaineers (1,50) perderam; City Of Bling (1,57) venceu (1 em 4). O risco do
   lay é baixo. A regra dos flucs continua tendo prioridade.
+- **Em teste (Charles Town):** evite lay no **favorito**; prefira o 2º ou 3º
+  favorito com pontos fracos concretos. Em 15/11, lays em favoritos: 1 de 4
+  (Robbielikeshim, City Of Bling e Gurney Halleck venceram); lays em não
+  favoritos: 2 de 2.
 - **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
   Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
