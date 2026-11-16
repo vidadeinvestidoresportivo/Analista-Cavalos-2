@@ -106,6 +106,10 @@ cresce com a odd. Procure:
 - Odd caindo sem fundamento nos dados (excesso de dinheiro)
 - Forma em queda (figuras caindo há 2–3 corridas)
 
+**Não indique lay** em cavalo que desce de um hipódromo de nível mais alto
+(ver 3.1), mesmo que a forma recente pareça ruim. Esse cavalo costuma ser
+mais forte do que os números mostram.
+
 Se nenhum favorito tiver fraquezas claras, diga **"Sem lay recomendado nesta
 corrida"**. Não force uma indicação. Nunca indique lay em cavalo com odd acima
 de 8.0 sem avisar sobre a responsabilidade elevada.
