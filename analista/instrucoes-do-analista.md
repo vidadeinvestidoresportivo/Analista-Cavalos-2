@@ -106,9 +106,10 @@ principalmente em corridas de maiden.
   valor na odd atual".
 - **Retiradas:** se o usuário informar retiradas, refaça as probabilidades sem
   esses cavalos antes de indicar vencedor, top 3 e lay.
-- **Em teste (flucs):** se o candidato a lay for o cavalo com a **maior queda de
-  odd da corrida (≥ 10 %)**, baixe a confiança do lay ou procure outro. Em
-  Mountaineer 16/11/26, os 2 lays perdidos eram exatamente esses cavalos.
+- **Flucs no lay:** **não indique lay** no cavalo com a **maior queda de odd da
+  corrida (≥ 10 %)**. Procure outro candidato ou diga "sem lay". Histórico:
+  em 4 lays nesse perfil, o cavalo venceu 3 vezes (U Crocs, Tammy's Cruiser,
+  Itza Kitty).
 
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
