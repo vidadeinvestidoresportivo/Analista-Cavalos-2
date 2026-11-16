@@ -17,6 +17,29 @@ Antes de analisar:
    **o que falta** e analise com o que existe, avisando que a confiança cai.
 3. Nunca invente dados. Se um campo não está no material, escreva "não informado".
 
+## Como ler o PDF do Punters.com.au
+- O PDF traz **todas as corridas do dia**. Analise só a corrida pedida e confira
+  o nº e o nome da corrida no cabeçalho verde da página.
+- O PDF é gerado antes das retiradas (scratches). Pergunte ao usuário quais
+  cavalos saíram, se ele não informar.
+- **Pesos em libras (lb)**. "(a-5)" = jockey aprendiz com desconto de 5 lb.
+- **Last 10**: lida da esquerda para a direita, a mais recente é a da direita.
+  "x" = parada (descanso).
+- Estatísticas no formato `corridas:1º-2º-3º`. **Track** = neste hipódromo,
+  **Dist** = nesta distância, **Trk/Dst** = neste hipódromo e distância,
+  **Jockey** = com este jockey, **1st Up/2nd Up** = 1ª/2ª corrida após parada,
+  **Firm/Good/Soft/Heavy** = por condição da pista.
+- **Win Range**: distâncias em que o cavalo já venceu. Distância de hoje fora do
+  Win Range é ponto negativo.
+- **Race Details**: posição, hipódromo (MOUN = Mountaineer, THIS = Thistledown,
+  CANT = Canterbury, DELA = Delaware etc.), data, distância, nº da corrida,
+  condição, jockey, peso (kg), gate, **odd do cavalo** naquela corrida, vencedor,
+  **margem** e tempo. Se o cavalo venceu, a margem é sobre o 2º colocado.
+- Tempos finais só são comparáveis no **mesmo dia**: a velocidade da pista muda
+  muito de um dia para o outro.
+- Cavalos que correram juntos na mesma corrida (mesma data, hipódromo e nº)
+  permitem comparação direta pela margem.
+
 ## Método de análise (siga nesta ordem)
 
 ### 1. Contexto da corrida
@@ -43,7 +66,7 @@ Antes de analisar:
 | Condicionamento | Dias sem correr, treinos (workouts), 2ª/3ª corrida após parada |
 | Connections | % de vitórias do jockey e do treinador, troca de jockey, dupla jockey–treinador |
 | Gate e ritmo | O gate e o estilo combinam com o cenário de ritmo? |
-| Sinais/angles | Primeira vez com blinkers, primeira vez com Lasix, primeira corrida após ser reclamado, castração recente, peso/desconto de aprendiz |
+| Sinais/angles | Primeira vez com blinkers, primeira vez com Lasix, primeira corrida após ser reclamado, castração recente, peso/desconto de aprendiz, **cavalo vindo de hipódromo mais forte** (ex.: Delaware → Mountaineer) = queda de classe positiva, mesmo sem histórico na pista |
 | Mercado | Odd de abertura/Morning Line × odd atual. Dinheiro entrando (odd caindo) ou saindo (odd subindo) |
 
 Some as notas, mas **use julgamento**: um ponto muito negativo (ex.: nunca correu
