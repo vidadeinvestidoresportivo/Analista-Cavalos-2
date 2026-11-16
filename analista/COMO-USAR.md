@@ -41,3 +41,14 @@ Com esses números, ajustamos as instruções (por exemplo: "evite lay em turf m
 | **DRF.com** | Pago | PPs com Beyer Speed Figures | Padrão da indústria |
 | **TwinSpires / Xpressbet** | PPs básicas grátis com conta | Past performances | Pode depender da disponibilidade no seu país |
 | **Betfair** | Grátis com conta | Odds de back/lay e movimentação ao vivo | Necessário para o lay |
+
+## 5. Dados do Equibase (recomendado)
+Junto com o PDF do Punters, envie para cada corrida um print da página
+**Entries** do Equibase (grátis). Ele mostra o que o Punters não mostra:
+- preço de claiming e restrições da corrida (N2L, sem vitória desde X etc.);
+- pesos reais e descontos de aprendiz;
+- jockey atualizado;
+- se a corrida era de grama e pode ter ido para a pista principal;
+- medicação (Lasix) e mudança de equipamento (blinkers).
+
+Em 10/11/26, com esses dados, o analista acertou 4 de 8 vencedores e 4 de 4 lays.

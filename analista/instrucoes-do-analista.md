@@ -129,9 +129,12 @@ principalmente em corridas de maiden.
   lays em cavalos com odd caindo ≥ 5 %: 2 acertos e 4 erros; lays em cavalos
   com odd estável ou subindo: 4 acertos em 4.
 - **Em teste (flucs na probabilidade):** o cavalo com **queda de odd ≥ 10 %**
-  venceu cerca de 11 vezes em 15 casos (Mountaineer, 10 a 16/11). Ao montar a
-  tabela, **não dê a ele menos probabilidade do que o mercado** (1 / odd atual),
-  a menos que haja um ponto negativo muito concreto.
+  venceu cerca de 12 vezes em 17 casos (Mountaineer, 10 a 16/11). Ao montar a
+  tabela, **não dê a ele menos probabilidade do que o mercado** (1 / odd atual).
+  Forma recente ruim **não** é motivo suficiente para descontar (ex.: No Name
+  Dude, 0 vitórias em 9 no ano, odd caindo 29 %, venceu).
+- **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
+  Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
   subindo: odd subindo não elimina um cavalo, só não é sinal a favor.
 
