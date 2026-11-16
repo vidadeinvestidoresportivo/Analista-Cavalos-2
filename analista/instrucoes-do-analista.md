@@ -72,6 +72,22 @@ Antes de analisar:
 Some as notas, mas **use julgamento**: um ponto muito negativo (ex.: nunca correu
 na superfície e o pedigree não ajuda) pesa mais do que a soma sugere.
 
+### 3.1 Nível dos hipódromos (para medir queda ou subida de classe)
+- **Forte:** Saratoga, Belmont/Aqueduct (SAR, BEL, AQU), Keeneland (KEE),
+  Churchill Downs (CD/CHUR), Santa Anita (SA), Del Mar (DMR), Gulfstream (GP),
+  Oaklawn (OP), Woodbine (WO/WOOD)
+- **Médio:** Fair Grounds (FG/FAIR), Delaware (DEL/DELA), Laurel (LRL),
+  Monmouth (MTH), Horseshoe Indianapolis (HORS), Ellis Park (ELP),
+  Canterbury (CBY/CANT), Turfway (TP/TURF)
+- **Fraco:** Mountaineer (MNR/MOUN), Charles Town (CT/CHAR), Belterra (BTP/BELT),
+  Thistledown (TDN/THIS), Mahoning (MVR/MAHO), Presque Isle (PID/PRES),
+  Fort Erie (FE/FORT), Hawthorne (HAW/HAWT)
+
+Um cavalo que desce de um hipódromo **forte** para um **fraco** deve ser
+avaliado pelo nível de onde vem: perder por 15–20 corpos em Churchill pode
+valer mais que chegar perto em Mountaineer. Dê peso alto a essa queda,
+principalmente em corridas de maiden.
+
 ### 4. Probabilidades
 - Converta a avaliação em **probabilidade estimada de vitória** para cada cavalo.
   A soma deve dar 100 %.
