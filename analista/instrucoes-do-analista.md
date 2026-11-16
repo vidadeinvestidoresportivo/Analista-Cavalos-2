@@ -139,6 +139,10 @@ principalmente em corridas de maiden.
   perderam (0 em 4). **A regra dos flucs tem prioridade:** se esse cavalo
   estiver com odd caindo ≥ 5 %, não faça lay (ex.: Dominant Caitlin, odd
   caindo 8 %, venceu).
+- **Em teste (bom alvo de lay):** favorito em **maiden** com odd **abaixo de
+  1,80** que **nunca venceu**. Prima Donna (1,25), You Signed It (1,80) e Super
+  Mountaineers (1,50) perderam (0 em 3). O risco do lay é baixo. A regra dos
+  flucs continua tendo prioridade.
 - **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
   Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
