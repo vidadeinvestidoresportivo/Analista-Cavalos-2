@@ -104,6 +104,15 @@ principalmente em corridas de maiden.
 - **Back só com valor:** indique apostar no vencedor apenas se a odd do mercado
   for maior que a odd justa. Sem valor, escreva "vencedor provável, mas sem
   valor na odd atual".
+- **Filtro contra o viés de azarão:** só indique aposta de valor se a odd do
+  mercado estiver **entre 3,0 e 10,0** e for **pelo menos 30 % maior** que a odd
+  justa. Prefira cavalos com histórico comprovado na pista/distância
+  (Trk/Dst ou Dist com vitórias). Indique **no máximo 1 aposta de valor por
+  corrida**. Em 16, 12 e 11/11, as apostas dentro desse filtro deram +16
+  unidades em 8; as de fora deram −6,25 em 10.
+- **Calibração:** o analista tende a dar probabilidade alta demais a azarões e
+  baixa demais a favoritos. Ao montar a tabela, revise: cavalos acima de 10,0
+  no mercado raramente passam de 10 % de chance.
 - **Retiradas:** se o usuário informar retiradas, refaça as probabilidades sem
   esses cavalos antes de indicar vencedor, top 3 e lay.
 - **Flucs no lay:** indique lay **somente** em cavalo com odd **estável ou
