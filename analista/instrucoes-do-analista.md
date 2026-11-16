@@ -146,7 +146,10 @@ principalmente em corridas de maiden.
 - **Em teste (Charles Town):** evite lay no **favorito**; prefira o 2º ou 3º
   favorito com pontos fracos concretos. Em 15/11, lays em favoritos: 1 de 4
   (Robbielikeshim, City Of Bling e Gurney Halleck venceram); lays em não
-  favoritos: 2 de 2.
+  favoritos: 4 de 4 (Judy G, John's Notion, Zip Start, Yes To Love).
+- **Uma aposta por corrida:** não combine lay no favorito com back num rival na
+  mesma corrida; as duas perdem juntas se o favorito vencer. Escolha a de maior
+  confiança.
 - **Favorito com odd subindo ≥ 8 %** decepcionou com frequência (Determined
   Love, Pasta Salad Rhonda, Fregon). Reduza um pouco a probabilidade dele.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
