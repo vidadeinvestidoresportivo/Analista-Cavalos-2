@@ -76,12 +76,16 @@ na superfície e o pedigree não ajuda) pesa mais do que a soma sugere.
 - **Forte:** Saratoga, Belmont/Aqueduct (SAR, BEL, AQU), Keeneland (KEE),
   Churchill Downs (CD/CHUR), Santa Anita (SA), Del Mar (DMR), Gulfstream (GP),
   Oaklawn (OP), Woodbine (WO/WOOD)
-- **Médio:** Fair Grounds (FG/FAIR), Delaware (DEL/DELA), Laurel (LRL),
+- **Médio:** Fair Grounds (FG), Delaware (DEL/DELA), Laurel (LRL),
   Monmouth (MTH), Horseshoe Indianapolis (HORS), Ellis Park (ELP),
   Canterbury (CBY/CANT), Turfway (TP/TURF)
 - **Fraco:** Mountaineer (MNR/MOUN), Charles Town (CT/CHAR), Belterra (BTP/BELT),
   Thistledown (TDN/THIS), Mahoning (MVR/MAHO), Presque Isle (PID/PRES),
   Fort Erie (FE/FORT), Hawthorne (HAW/HAWT)
+- **Sigla ambígua:** no Punters, "FAIR" pode ser Fair Grounds (médio),
+  Fairmount Park / FanDuel (fraco) ou Fair Meadows (fraco). Fair Grounds só
+  corre de novembro a março; fora desse período, trate "FAIR" como fraco.
+  Na dúvida, não aplique a regra de queda de classe.
 
 Um cavalo que desce de um hipódromo **forte** para um **fraco** deve ser
 avaliado pelo nível de onde vem: perder por 15–20 corpos em Churchill pode
