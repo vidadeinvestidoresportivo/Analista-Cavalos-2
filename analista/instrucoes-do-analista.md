@@ -98,6 +98,18 @@ principalmente em corridas de maiden.
 - Calcule a **odd justa** = 100 / probabilidade (em odd decimal).
 - Compare com a odd do mercado, se houver: odd do mercado > odd justa = **valor**.
 
+### 4.1 Regras aprendidas com os resultados
+- **Ignore a coluna "Rating" do Punters** nas corridas dos EUA. Em 8 corridas
+  testadas, o cavalo de maior rating venceu só 1 vez.
+- **Back só com valor:** indique apostar no vencedor apenas se a odd do mercado
+  for maior que a odd justa. Sem valor, escreva "vencedor provável, mas sem
+  valor na odd atual".
+- **Retiradas:** se o usuário informar retiradas, refaça as probabilidades sem
+  esses cavalos antes de indicar vencedor, top 3 e lay.
+- **Em teste (flucs):** se o candidato a lay for o cavalo com a **maior queda de
+  odd da corrida (≥ 10 %)**, baixe a confiança do lay ou procure outro. Em
+  Mountaineer 16/11/26, os 2 lays perdidos eram exatamente esses cavalos.
+
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
 que tenha **fraquezas concretas**, porque o risco (responsabilidade) do lay
