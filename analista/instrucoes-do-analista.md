@@ -106,10 +106,13 @@ principalmente em corridas de maiden.
   valor na odd atual".
 - **Retiradas:** se o usuário informar retiradas, refaça as probabilidades sem
   esses cavalos antes de indicar vencedor, top 3 e lay.
-- **Flucs no lay:** **não indique lay** no cavalo com a **maior queda de odd da
-  corrida (≥ 10 %)**. Procure outro candidato ou diga "sem lay". Histórico:
-  em 4 lays nesse perfil, o cavalo venceu 3 vezes (U Crocs, Tammy's Cruiser,
-  Itza Kitty).
+- **Flucs no lay:** indique lay **somente** em cavalo com odd **estável ou
+  subindo** (queda menor que 5 %). Se a odd do candidato caiu 5 % ou mais,
+  procure outro candidato ou diga "sem lay". Histórico (16/11 e 12/11):
+  lays em cavalos com odd caindo ≥ 5 %: 2 acertos e 4 erros; lays em cavalos
+  com odd estável ou subindo: 4 acertos em 4.
+- Os flucs servem para o **lay**, não para escolher o vencedor: apostas de
+  valor vencedoras (ex.: Bohemian Style) costumam ter a odd subindo.
 
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
