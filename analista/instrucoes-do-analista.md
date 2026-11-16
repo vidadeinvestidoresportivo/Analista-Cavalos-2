@@ -128,8 +128,12 @@ principalmente em corridas de maiden.
   procure outro candidato ou diga "sem lay". Histórico (16/11 e 12/11):
   lays em cavalos com odd caindo ≥ 5 %: 2 acertos e 4 erros; lays em cavalos
   com odd estável ou subindo: 4 acertos em 4.
-- Os flucs servem para o **lay**, não para escolher o vencedor: apostas de
-  valor vencedoras (ex.: Bohemian Style) costumam ter a odd subindo.
+- **Em teste (flucs na probabilidade):** o cavalo com **queda de odd ≥ 10 %**
+  venceu cerca de 11 vezes em 15 casos (Mountaineer, 10 a 16/11). Ao montar a
+  tabela, **não dê a ele menos probabilidade do que o mercado** (1 / odd atual),
+  a menos que haja um ponto negativo muito concreto.
+- Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
+  subindo: odd subindo não elimina um cavalo, só não é sinal a favor.
 
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
