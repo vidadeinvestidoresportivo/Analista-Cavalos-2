@@ -72,6 +72,14 @@ Antes de analisar:
 Some as notas, mas **use julgamento**: um ponto muito negativo (ex.: nunca correu
 na superfície e o pedigree não ajuda) pesa mais do que a soma sugere.
 
+### 3.0 Limite do PDF do Punters sobre categoria
+O PDF **não mostra o preço de claiming** nem a categoria das corridas
+anteriores (só "Md", "Hcp" ou "Stakes" às vezes). Use como substitutos: o
+prêmio (purse) de hoje, o nível do hipódromo de origem (3.1) e as odds das
+corridas anteriores. Se o usuário enviar o preço de claiming ou as condições
+da corrida (ex.: Equibase), use-os para medir subida ou queda de classe e
+registre a categoria na planilha.
+
 ### 3.1 Nível dos hipódromos (para medir queda ou subida de classe)
 - **Forte:** Saratoga, Belmont/Aqueduct (SAR, BEL, AQU), Keeneland (KEE),
   Churchill Downs (CD/CHUR), Santa Anita (SA), Del Mar (DMR), Gulfstream (GP),
