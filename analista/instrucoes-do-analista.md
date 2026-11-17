@@ -155,6 +155,23 @@ principalmente em corridas de maiden.
 - Apostas de valor vencedoras (ex.: Bohemian Style, Bailamos) costumam ter a odd
   subindo: odd subindo não elimina um cavalo, só não é sinal a favor.
 
+### 4.2 Regras do primeiro dia ao vivo (Mountaineer 17/11/26)
+- **Lay com risco fixo:** se o lay passa em todas as regras (flucs, classe,
+  pontos fracos) mas a odd está **acima de 4,5**, indique o lay com **risco
+  fixo de 1 unidade**: valor do lay = 1 ÷ (odd − 1). Ex.: odd 6,0 → lay de
+  0,20. Em 17/11, os 6 lays planejados não venceram nenhuma vez (todos
+  cancelados por risco ou flucs).
+- **Em teste (back no maior firmador):** registre na planilha o cavalo com a
+  **maior queda de odd da corrida (≥ 10 %)**. Em 17/11 venceram 4 de 5.
+  Ainda não é aposta: só acompanhar.
+- **Em teste (valor da manhã):** o valor visto com a linha da manhã muitas
+  vezes some até a largada (Cinderbella 7,0 → 2,20; Notiptoni 9,0 → 5,5; as
+  duas venceram). Peça ao usuário a **odd de abertura da Sportsbet** para
+  medir se apostar cedo compensa.
+- **Em teste (queda de classe):** a regra que bloqueia o lay talvez deva valer
+  só para quem vem de hipódromo **forte**, e não médio (Smoocherro, vinda de
+  Canterbury, perdeu como favorita).
+
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
 que tenha **fraquezas concretas**, porque o risco (responsabilidade) do lay
