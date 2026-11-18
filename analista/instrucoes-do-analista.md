@@ -139,10 +139,6 @@ principalmente em corridas de maiden.
   perderam (0 em 4). **A regra dos flucs tem prioridade:** se esse cavalo
   estiver com odd caindo ≥ 5 %, não faça lay (ex.: Dominant Caitlin, odd
   caindo 8 %, venceu).
-- **Em teste (bom alvo de lay):** favorito em **maiden** com odd **abaixo de
-  1,80** que **nunca venceu**. Prima Donna (1,25), You Signed It (1,80) e Super
-  Mountaineers (1,50) perderam; City Of Bling (1,57) venceu (1 em 4). O risco do
-  lay é baixo. A regra dos flucs continua tendo prioridade.
 - **Em teste (Charles Town):** evite lay no **favorito**; prefira o 2º ou 3º
   favorito com pontos fracos concretos. Em 15/11, lays em favoritos: 1 de 4
   (Robbielikeshim, City Of Bling e Gurney Halleck venceram); lays em não
@@ -168,9 +164,14 @@ principalmente em corridas de maiden.
   vezes some até a largada (Cinderbella 7,0 → 2,20; Notiptoni 9,0 → 5,5; as
   duas venceram). Peça ao usuário a **odd de abertura da Sportsbet** para
   medir se apostar cedo compensa.
-- **Em teste (queda de classe):** a regra que bloqueia o lay talvez deva valer
-  só para quem vem de hipódromo **forte**, e não médio (Smoocherro, vinda de
-  Canterbury, perdeu como favorita).
+- **Queda de classe (ajustada em 18/11):** o bloqueio do lay vale para quem vem
+  de hipódromo **forte** (ver 3.1). Quem vem só de hipódromo **médio** (Delaware,
+  Canterbury, Laurel etc.) pode ser alvo de lay se a odd estiver estável ou
+  subindo: Smoocherro e Catholic Guilt perderam (2 em 2). Confiança baixa e
+  risco fixo nesses casos.
+- **Em teste (valor dividido):** as apostas de valor chegam muito em 2º (7 de
+  21). Sugira dividir a unidade: ½ na vitória e ½ no place, se a odd de place
+  da casa estiver perto da justa (odd ÷ 2 para 2 posições; odd ÷ 3 para 3).
 
 ### 5. Seleção do LAY (o cavalo que não vence)
 O lay ideal é um cavalo **com odd baixa (de preferência um dos 3 favoritos)**
